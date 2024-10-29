@@ -10,3 +10,5 @@ Mane
 ![image](https://github.com/user-attachments/assets/029bd2df-61ac-4bac-aba9-0fd055eb311e)
 
 Выполнять ЛР 1 можно на сайте overleaf. В результате выполнения лабораторной необходимо добавить скомпилированный pdf-файл в выданную вам ветку.
+ссылка на мой проект:
+https://www.overleaf.com/project/66daac1e91ef096a6ba96213
