@@ -6,5 +6,7 @@ Mane
 ![image](https://github.com/user-attachments/assets/53150ab1-fba4-4a28-84db-e9d0ae5a6e84)
 
 а вот результат:
+
 ![image](https://github.com/user-attachments/assets/029bd2df-61ac-4bac-aba9-0fd055eb311e)
+
 Выполнять ЛР 1 можно на сайте overleaf. В результате выполнения лабораторной необходимо добавить скомпилированный pdf-файл в выданную вам ветку.
